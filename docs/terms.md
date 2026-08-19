@@ -1,4 +1,4 @@
-# OrderUp SMS — Terms & Conditions
+# OrderUp SMS - Terms & Conditions
 Last updated: August 19, 2026
 OrderUp is a software application that lets users place and manage orders by text message.
 By texting the OrderUp phone number, you agree to these terms and consent to receive automated SMS replies.

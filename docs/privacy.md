@@ -7,7 +7,7 @@ This policy explains how the OrderUp SMS service handles information when you te
 Information we collect
 
 We collect your mobile phone number and the contents of the messages you send to the service.
-This information is used only to respond to your request — for example, to confirm an order, report its status, or return an error message.
+This information is used only to respond to your request - for example, to confirm an order, report its status, or return an error message.
 By texting the service first, you consent to receive automated reply messages related to your request.
 
 How we use and share your information

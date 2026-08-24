@@ -1,5 +1,5 @@
 # OrderUp SMS - Privacy Policy
-Last updated: August 19, 2026
+Last updated: August 24, 2026
 OrderUp is a software application that lets users place and manage orders by text message.
 This policy explains how the OrderUp SMS service handles information when you text its phone number.
 ## Information we collect

@@ -19,3 +19,4 @@ Message and data rates may apply.
 This service is provided as-is and makes no warranties regarding availability, accuracy, or fitness for any purpose.
 ## Contact
 For questions about these terms, contact: akshaykollur08@gmail.com
+
